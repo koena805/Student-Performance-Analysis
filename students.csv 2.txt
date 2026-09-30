@@ -1,0 +1,6 @@
+Student_ID	Name	Attendance	Maths	Science	English
+101	Rahul	85	78	82	75
+102	Priya	92	88	91	89
+103	Amit	76	65	72	70
+104	Sneha	95	94	90	93
+105	Arjun	68	55	61	58
